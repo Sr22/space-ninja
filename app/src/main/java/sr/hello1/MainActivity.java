@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         //Added Web view
         WebView myWebView = (WebView) findViewById(R.id.webview);
         myWebView.setWebChromeClient(new WebChromeClient());
-       // myWebView.loadUrl("http://www.google.com");
+
         myWebView.loadUrl("file:///android_asset/index.html");
 
         WebSettings webSettings = myWebView.getSettings();

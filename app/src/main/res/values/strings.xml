@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello1</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_newgame" />
+    <string name="btn_exit">btn_exit</string>
+    <string name="btn_new">btn_newgame</string>
+    <string name="finished_text">Finished</string>
+    <string name="finished_button">finished_btn</string>
+</resources>
